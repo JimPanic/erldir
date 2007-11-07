@@ -1,0 +1,5 @@
+ErlDir History File
+
+Version 0.0.1 2007-jul-19  Stuart Jackson <sjackson@simpleenigma.com>
+* Initial release of DNS modules
+* DNS packet compression and decompression
