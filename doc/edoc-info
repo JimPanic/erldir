@@ -1,0 +1,13 @@
+{application,erldir}.
+{packages,[]}.
+{modules,[dns,
+          dns_cache,
+          dns_catalog,
+          dns_compress,
+          dns_enc,
+          dns_lookup,
+          dns_loop,
+          dns_rdata,
+          dns_rr,
+          dns_udp,
+          test]}.
