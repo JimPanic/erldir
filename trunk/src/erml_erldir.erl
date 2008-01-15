@@ -38,6 +38,7 @@
 
 -behavior(gen_erml).
 
--export([list/0]).
+-export([ermldns/2,ermlldap/2]).
 
-list() -> [].
+ermlldap(Element,ERML) -> {Element,ERML}.
+ermldns(Element,ERML) -> {Element,ERML}.
